@@ -1,0 +1,21 @@
+package animal;
+
+public class Animal {
+	public String name;
+	public void bark(){
+		System.out.println("Gow Gow");
+	}
+	
+	public int run(int speed){	  
+		return speed * 5;
+	}
+			
+	public static void main(String[] args){
+			System.out.println("Hello World");
+			Animal ani = new Animal();
+			ani.bark();
+			ani.run(4);
+	}
+
+	
+}

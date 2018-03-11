@@ -1,0 +1,15 @@
+package animal;
+
+public class Animal {
+	public String name;
+	public void bark(){
+		System.out.println("Gow Gow");
+	}
+	
+		
+		public static void main(String[] args){
+			System.out.println("Hello, Tim!");
+		}
+
+	
+}

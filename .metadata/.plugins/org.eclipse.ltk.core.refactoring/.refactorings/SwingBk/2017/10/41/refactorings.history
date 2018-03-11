@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MyF.java&apos; to &apos;LayoutTut/src/com.stosh&apos;&#x0A;- Original project: &apos;SwingBk&apos;&#x0A;- Destination element: &apos;LayoutTut/src/com.stosh&apos;&#x0A;- Original element: &apos;com.stosh.MyF.java&apos;" description="Copy compilation unit" destination="=LayoutTut/src&lt;com.stosh" element1="/src&lt;com.stosh{MyF.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1507823768771" units="1" version="1.0"/>
+</session>

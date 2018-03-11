@@ -1,0 +1,37 @@
+package animal;
+
+class Dog{
+	public void color()
+	{
+		System.out.println("red dog");
+	}
+}
+
+public class Animal {
+	public String name;
+	public void bark(){
+		System.out.println("Gow Gow");
+	}
+	
+	public int run(int speed){	  
+		return speed * 5;
+	}
+//	private int run(int speed){	  
+//		return speed * 5;
+//	}
+//			
+	public static void main(String[] args){
+			System.out.println("Hello World");
+			Animal ani = new Animal();
+			ani.bark();
+//			ani.run(4);
+			System.out.println(ani.run(4));
+			int result = ani.run(9);
+			
+			System.out.println(result);
+			Dog d1 = new Dog();
+			d1.
+	}
+
+	
+}
